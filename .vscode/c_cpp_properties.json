@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\\\Users\\\\Kenny\\\\AppData\\\\Local\\\\Arduino15\\\\packages\\\\macchina\\\\hardware\\\\sam\\\\0.3.0\\\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

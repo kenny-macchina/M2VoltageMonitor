@@ -1,0 +1,6 @@
+{
+    "board": "macchina:sam:m2",
+    "port": "COM6",
+    "sketch": "M2VoltageMonitor\\M2VoltageMonitor.ino",
+    "programmer": "AVR ISP"
+}

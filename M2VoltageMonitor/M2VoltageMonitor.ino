@@ -1,3 +1,7 @@
+//Macchina LLC
+//Kenny Truong
+//4-10-19
+
 #include <Arduino_Due_SD_HSMCI.h>
 #include "Arduino.h"
 #include <M2_12VIO.h>
