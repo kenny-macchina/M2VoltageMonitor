@@ -37,7 +37,8 @@ Assuming the voltage response observed here is reasonably indicative of the majo
 <br></br>
 
 ## How to Run the Program and Collect Data
-1. Upload the "M2VoltageMonitor.ino" sketch to the M2 and then remove from computer.
+0. Determine what version of M2 is being used [here.](http://docs.macchina.cc/m2/versions.html)
+1. Upload the appropriate sketch for the version of M2 and then remove from computer.
 2. Format the microSD card as FAT32 and insert.
 3. Confirm that the AC in the vehicle is turned off.
 4. Without starting the car, insert the M2 into the OBDII port.
